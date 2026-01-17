@@ -1,4 +1,4 @@
-        Quiz App (Python)
+#Quiz App (Python)
 ##Description
 This project is a simple quiz application developed using Python.
 It asks multiple questions to the user, checks the answers,
